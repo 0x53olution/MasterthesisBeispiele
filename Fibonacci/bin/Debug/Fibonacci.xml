@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Fibonacci
+</name>
+</assembly>
+<members>
+<member name="M:Fibonacci.Fibonacci.BerechneFibonacci(System.Int32)">
+	<summary>
+ Fibonacci berechnung rekursiv
+ </summary>
+	<param name="n">Anzahl der Fibonacci Folgen</param>
+	<returns>Long</returns>
+	<remarks>n&gt;91 ergibt einen Überlauf von Long!!!</remarks>
+</member><member name="P:Fibonacci.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Fibonacci.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Fibonacci.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
