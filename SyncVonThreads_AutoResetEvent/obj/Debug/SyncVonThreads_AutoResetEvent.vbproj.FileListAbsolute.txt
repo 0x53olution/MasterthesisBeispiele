@@ -1,0 +1,10 @@
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\bin\Debug\SyncVonThreads_AutoResetEvent.exe.config
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\bin\Debug\SyncVonThreads_AutoResetEvent.exe
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\bin\Debug\SyncVonThreads_AutoResetEvent.pdb
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\bin\Debug\SyncVonThreads_AutoResetEvent.xml
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\obj\Debug\SyncVonThreads_AutoResetEvent.frmMaiin.resources
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\obj\Debug\SyncVonThreads_AutoResetEvent.Resources.resources
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\obj\Debug\SyncVonThreads_AutoResetEvent.vbproj.GenerateResource.Cache
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\obj\Debug\SyncVonThreads_AutoResetEvent.exe
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\obj\Debug\SyncVonThreads_AutoResetEvent.xml
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_AutoResetEvent\obj\Debug\SyncVonThreads_AutoResetEvent.pdb

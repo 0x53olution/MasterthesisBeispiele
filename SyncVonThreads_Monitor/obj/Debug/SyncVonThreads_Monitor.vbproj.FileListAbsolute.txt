@@ -1,0 +1,10 @@
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\bin\Debug\SyncVonThreads_Monitor.exe.config
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\bin\Debug\SyncVonThreads_Monitor.exe
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\bin\Debug\SyncVonThreads_Monitor.pdb
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\bin\Debug\SyncVonThreads_Monitor.xml
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\obj\Debug\SyncVonThreads_Monitor.frmMain.resources
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\obj\Debug\SyncVonThreads_Monitor.Resources.resources
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\obj\Debug\SyncVonThreads_Monitor.vbproj.GenerateResource.Cache
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\obj\Debug\SyncVonThreads_Monitor.exe
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\obj\Debug\SyncVonThreads_Monitor.xml
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\SyncVonThreads_Monitor\obj\Debug\SyncVonThreads_Monitor.pdb

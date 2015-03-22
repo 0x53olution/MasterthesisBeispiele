@@ -1,0 +1,10 @@
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\bin\Debug\ProducerConsumerProblem4.5.exe.config
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\bin\Debug\ProducerConsumerProblem4.5.exe
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\bin\Debug\ProducerConsumerProblem4.5.pdb
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\bin\Debug\ProducerConsumerProblem4.5.xml
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\obj\Debug\ProducerConsumerProblem4._5.frmMain.resources
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\obj\Debug\ProducerConsumerProblem4._5.Resources.resources
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\obj\Debug\ProducerConsumerProblem4.5.vbproj.GenerateResource.Cache
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\obj\Debug\ProducerConsumerProblem4.5.exe
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\obj\Debug\ProducerConsumerProblem4.5.xml
+C:\Users\Stephan\documents\visual studio 2013\Projects\MasterabschlussarbeitBeispiele\ProducerConsumerProblem4.5\obj\Debug\ProducerConsumerProblem4.5.pdb
