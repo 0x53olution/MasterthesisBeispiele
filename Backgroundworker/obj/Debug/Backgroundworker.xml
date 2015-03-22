@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Backgroundworker
+</name>
+</assembly>
+<members>
+<member name="M:Backgroundworker.frmMain.bgw_DoWork(System.Object,System.ComponentModel.DoWorkEventArgs)">
+	<summary>
+ Backgroundworker - wird im Hintergrundthread ausgeführt
+ </summary>
+</member><member name="M:Backgroundworker.frmMain.bgw_ProgressChanged(System.Object,System.ComponentModel.ProgressChangedEventArgs)">
+	<summary>
+ Zeigt den aktuellen Zustand - wird im Mainthread ausgeführt
+ </summary>
+</member><member name="M:Backgroundworker.frmMain.bgw_RunWorkerCompleted(System.Object,System.ComponentModel.RunWorkerCompletedEventArgs)">
+	<summary>
+ Gibt eine Rueckmeldung über das Beenden - wird im Mainthread ausgeführt
+ </summary>
+</member><member name="P:Backgroundworker.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Backgroundworker.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Backgroundworker.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
